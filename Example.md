@@ -1,3 +1,5 @@
 This is my first day!
 
-This is an extra ;ine
+This is an extra line
+
+And another small change
